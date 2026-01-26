@@ -5,3 +5,5 @@ Mapp your target and findings
 
 Target BT1
   Google dorks and Wayback urls (ZIP)
+
+https://www.youtube.com/watch?v=lp4Do_VIwzw
