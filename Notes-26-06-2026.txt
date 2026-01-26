@@ -1,0 +1,7 @@
+Find Targets.
+Hunt 2 targets simultaneously
+
+Mapp your target and findings 
+
+Target BT1
+  Google dorks and Wayback urls (ZIP)
