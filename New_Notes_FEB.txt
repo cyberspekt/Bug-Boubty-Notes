@@ -12,3 +12,9 @@ https://bgp.he.net/
 ASN number 
 
 Google <org name> Org name
+ amass intel -asn 16599
+
+https://web.archive.org/cdx/search/cdx?url=*.bentley.com.*/*&output=text&fl=original&collapse=urlkey
+
+
+http://prod-staging-review.itwin.bentley.com/
