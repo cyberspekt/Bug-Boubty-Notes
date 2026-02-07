@@ -1,0 +1,10 @@
+Wayback
+
+Try on vectors
+
+cat BENTLEYwayback.txt | grep "=https" | grep -v "embed" | grep -v "login"      
+
+nuclei -l BENTLEYwayback.txt -dast fuzzing-templates/redirect/open-redirect.yaml   
+
+For discover
+https://bgp.he.net/
