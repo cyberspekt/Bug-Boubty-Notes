@@ -8,3 +8,7 @@ nuclei -l BENTLEYwayback.txt -dast fuzzing-templates/redirect/open-redirect.yaml
 
 For discover
 https://bgp.he.net/
+
+ASN number 
+
+Google <org name> Org name
