@@ -1,0 +1,19 @@
+Approach depends on target
+
+Checklist: based on its scope, domains, subdomains, network, leaks, functionality of the app.
+
+Mindset: Dont stop.
+
+Acquisition: Crunchbase
+
+First Target https://www.nwo.nl/en/responsible-disclosure 
+
+Subdomain: Subfinder
+
+SecurityTrails(needapikey)
+bevegil (CloudSek)
+
+amass (Api key scan)
+
+crt.sh
+knockpy(need apikey)
